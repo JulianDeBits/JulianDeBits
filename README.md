@@ -2,6 +2,7 @@
 JulianDeBits
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hola+a+todos+%F0%9F%91%8B;Soy+JulianDeBits%2C+Bienvenid@s!!.)
+
 # 💫 Sobre Mi:
 Soy un entusiasta estudiante de desarrollo de software con conocimientos orientados a la multiplataforma (Web, Escritorio y Movil).
 
