@@ -10,8 +10,6 @@ Soy un entusiasta estudiante de desarrollo de software con conocimientos orienta
  - 👯 Estudiante de 5to Semestre en Tecnologia en Desarrollo de Software.
 - 📫 Informacion de Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-quintero-8156771bb) [![Instagram](https://img.shields.io/badge/Instagram-purple)](https://www.instagram.com/_julian.quinter0) [![Facebok](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/Julian.Quintero117)
-
 # 🚀 Portafolio:
 <a>https://portafoliojuliandebits.netlify.app</a>
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg) 
@@ -37,4 +35,8 @@ Soy un entusiasta estudiante de desarrollo de software con conocimientos orienta
 <img src="https://learn.microsoft.com/es-es/visualstudio/media/vs-ide-2022.svg" alt="visualstudio" width="40" height="40"/>
 ![icons8-git](https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg)
 ![icons8-github](https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg)
+
+# ✅ Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-quintero-8156771bb) [![Instagram](https://img.shields.io/badge/Instagram-purple)](https://www.instagram.com/_julian.quinter0) [![Facebok](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/Julian.Quintero117)
 
