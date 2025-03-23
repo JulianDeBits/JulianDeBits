@@ -5,6 +5,7 @@ Soy un entusiasta estudiante de desarrollo de software con diversos conocimiento
  - 👯 Estoy abierto a escuchar ofertas laborales!!.
 - 📫 Informacion de Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubinkhalid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2391469) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mubin_Khalid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubinkhalid) 
 
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 # 💻 Tech Stack:
