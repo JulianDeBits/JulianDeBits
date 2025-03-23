@@ -21,6 +21,8 @@ Soy un entusiasta estudiante de desarrollo de software con conocimientos orienta
 ![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img src="https://images.icon-icons.com/2699/PNG/512/mariadb_logo_icon_168996.png" alt="MariaDB" width="40" height="40"/>
+
 
 ### Frameworks 
 ![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
