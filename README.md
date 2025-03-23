@@ -1,7 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+JulianDeBits%2C+aka+MK.)
-# 💫 About Me:
-I am passionate developer with tons of experience with different stack.
- - 🌱 I’m currently learning Golang.
- - 👯 I am available for any help related to these stacks.
- - 💬 Ask me about anything related to these stacks.
-- 📫 How to reach me:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hola+a+todos+%F0%9F%91%8B;Soy+JulianDeBits%2C+Bienvenid@s!!.)
+# 💫 Sobre Mi:
+Soy un entusiasta estudiante de desarrollo de software con diversos conocimientos en el mundo del desarrollo de software.
+ - 🌱 Actualmente estoy aprendiendo Javascript, Bootstrap y React.
+ - 👯 Estoy abierto a escuchar ofertas laborales!!.
+- 📫 Informacion de Contacto:
