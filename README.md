@@ -23,5 +23,5 @@ Soy un entusiasta estudiante de desarrollo de software con diversos conocimiento
 ### Frameworks 
 
 ![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
-<img src="https://learn.microsoft.com/es-es/visualstudio/media/vs-ide-2022.sv" alt="csharp" width="40" height="40"/>
+<img src="https://learn.microsoft.com/es-es/visualstudio/media/vs-ide-2022.svg" alt="sqlserver" width="40" height="40"/>
 
