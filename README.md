@@ -5,6 +5,6 @@ Soy un entusiasta estudiante de desarrollo de software con diversos conocimiento
  - 👯 Estoy abierto a escuchar ofertas laborales!!.
 - 📫 Informacion de Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/julian-quintero-8156771bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/julian-quintero-8156771bb/)]
 
 # 💻 Tech Stack:
