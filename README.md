@@ -24,6 +24,7 @@ Soy un entusiasta estudiante de desarrollo de software con conocimientos orienta
 
 ### Frameworks 
 ![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
+<img src="https://img.icons8.com/ultraviolet/2x/react.png" alt ="react" width="40" height="40"/>
 
 ### Software
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
