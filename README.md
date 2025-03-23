@@ -10,8 +10,7 @@ Soy un entusiasta estudiante de desarrollo de software con conocimientos orienta
  - 👯 Estudiante de 5to Semestre en Tecnologia en Desarrollo de Software.
 - 📫 Informacion de Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-quintero-8156771bb) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-quintero-8156771bb) [![LinkedIn](https://img.shields.io/badge/Instagram-purple)](https://www.instagram.com/_julian.quinter0)
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 # 💻 Conocimientos Técnicos:
 
