@@ -16,8 +16,8 @@ Soy un entusiasta estudiante de desarrollo de software con diversos conocimiento
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
 ![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
-![icons8-c](https://img.icons8.com/color/512/c-sharp-logo.png)
-![icons8-sqlserver](https://maxst.icons8.com/vue-static/icon/svg/accordionEditorStroke.svg)
+![icons8-c](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![icons8-sqlserver](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
 
 
 ### Frameworks 
