@@ -8,7 +8,7 @@ Soy un entusiasta estudiante de desarrollo de software con conocimientos orienta
 
  - 🌱 Actualmente estoy aprendiendo Kotlin, Javascript, Bootstrap y React.
  - 👯 Estudiante de 5to Semestre en Tecnologia en Desarrollo de Software.
-- 📫 Informacion de Contacto:
+- 📫 Conocimientos Tecnicos:
 
 # 🚀 Portafolio:
 <a>https://portafoliojuliandebits.netlify.app</a>
