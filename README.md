@@ -11,7 +11,7 @@ Soy un entusiasta estudiante de desarrollo de software con conocimientos orienta
 - 📫 Conocimientos Tecnicos:
 
 # 🚀 Portafolio:
-<a>https://portafoliojuliandebits.netlify.app</a>
+<a>https://julianquintero.netlify.app</a>
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg) 
 # 💻 Conocimientos Técnicos:
 
